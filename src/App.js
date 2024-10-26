@@ -20,19 +20,19 @@ class App extends React.Component {
         },
         {
           id: 2,
-          title: "Стул",
-          img: "chair.jpg",
-          desc: "Черный, минималистичный стул",
+          title: "Стол",
+          img: "table.jpg",
+          desc: "Черный, минималистичный стол",
           category: "chairs",
-          price: "29.99"
+          price: "39.99"
         },
         {
           id: 3,
-          title: "Стул",
-          img: "chair.jpg",
-          desc: "Черный, минималистичный стул",
+          title: "Шкаф",
+          img: "wardrobe.jpg",
+          desc: "Черный, минималистичный шкаф",
           category: "chairs",
-          price: "29.99"
+          price: "59.99"
         },
         {
           id: 4,
@@ -44,19 +44,19 @@ class App extends React.Component {
         },
         {
           id: 5,
-          title: "Стул",
-          img: "chair.jpg",
-          desc: "Черный, минималистичный стул",
+          title: "Стол",
+          img: "table.jpg",
+          desc: "Черный, минималистичный стол",
           category: "chairs",
-          price: "29.99"
+          price: "39.99"
         },
         {
           id: 6,
-          title: "Стул",
-          img: "chair.jpg",
-          desc: "Черный, минималистичный стул",
+          title: "Шкаф",
+          img: "wardrobe.jpg",
+          desc: "Черный, минималистичный шкаф",
           category: "chairs",
-          price: "29.99"
+          price: "59.99"
         }
       ]
     };
